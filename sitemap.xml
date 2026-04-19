@@ -2,6 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kamaltechlabs.com/</loc>
+    <lastmod>2024-04-19</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://kamaltechlabs.com/expertise</loc>
+    <lastmod>2024-04-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kamaltechlabs.com/case-studies</loc>
+    <lastmod>2024-04-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kamaltechlabs.com/contact</loc>
+    <lastmod>2024-04-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kamaltechlabs.com/careers</loc>
+    <lastmod>2024-04-19</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kamaltechlabs.com/terms-and-condition</loc>
+    <lastmod>2024-04-19</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://kamaltechlabs.com/privacy-policy</loc>
+    <lastmod>2024-04-19</lastmod>
+    <priority>0.3</priority>
   </url>
 </urlset>
